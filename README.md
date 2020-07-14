@@ -1,7 +1,7 @@
 # [ECCV 2020] Global and Local Enhancement Network For Paired and Unpaired Image Enhancement
 
 <div align="center">
-  <img width="50%" alt="GleNet" src="./paper/fig2.png">
+  <img width="90%" alt="GleNet" src="./paper/fig2.png">
 </div>
 
 ## Enviroment setup
