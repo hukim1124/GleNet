@@ -20,7 +20,7 @@ Coming Soon...
 
 ## Cite
 ```
-@inproceedings{fu2016,
+@inproceedings{kim2020global,
   title = {Global and Local Enhancement Network For Paired and Unpaired Image Enhancement},
   author = {Kim, Han-Ul and Koh, Young Jun and Kim, Chang-Su},
   booktitle={European Conference on Computer Vision},
