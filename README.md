@@ -6,11 +6,9 @@
 
 <br/>
 
-## Enviroment setup
-Our code is developed with TensorFlow v2. See requirements.txt for all prerequisites, and you can also install them using the following command.
-```
-pip install -r requirements.txt
-```
+## Prerequisite
+* Python 3.7
+* Tensorflow v2.2
 
 ## Paired Image Enhancement
 Coming Soon...
