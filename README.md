@@ -11,17 +11,10 @@
 * Tensorflow v2.2
 
 ## Paired Image Enhancement
-Our results on the MIT Adobe 5K dataset are available at
-
-* [GEN](https://drive.google.com/file/d/1g4bYbfrIi88ff0NEu10kBI-RBu1FNhsG/view?usp=sharing)
-* [GEN and LEN](https://drive.google.com/file/d/1-b-yAndvvh6TutBJG797hxVElyLPA8h5/view?usp=sharing)
-
+Our results on the MIT Adobe 5K dataset are available at [here](https://drive.google.com/file/d/1-b-yAndvvh6TutBJG797hxVElyLPA8h5/view?usp=sharing)
 
 ## Unpaired Image Enhancement
-Our results on the MIT Adobe 5K dataset are available at
-
-* [GEN](https://drive.google.com/file/d/1g4bYbfrIi88ff0NEu10kBI-RBu1FNhsG/view?usp=sharing)
-* [GEN and LEN](https://drive.google.com/file/d/1-b-yAndvvh6TutBJG797hxVElyLPA8h5/view?usp=sharing)
+Our results on the MIT Adobe 5K dataset are available at [here](https://drive.google.com/file/d/1-b-yAndvvh6TutBJG797hxVElyLPA8h5/view?usp=sharing)
 
 ## Cite
 ```
